@@ -1,0 +1,16 @@
+.btn{
+    background-color: rgb(56, 159, 255);
+    color: white;
+    border-radius: 7px;
+}
+
+#del{
+    background-color: rgb(255, 78, 78);
+    border-color: rgb(255, 78, 78) ;
+    border-radius: 3px;
+}
+#paid{
+ background-color: rgb(155, 255, 55);
+ border-color: rgb(155, 255, 55);
+ border-radius: 3px;
+}

@@ -1,0 +1,45 @@
+.navi {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.left ul {
+    display: flex;
+    list-style: none;
+}
+.left ul li a {
+    font-size: 150%;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    margin: 2vw;
+}
+body {
+    background-color: rgb(255, 238, 142);
+}
+
+.left ul li {
+    border-radius: 7px;
+    margin: 10%;
+    background-color: black;
+    border: 3px solid black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    list-style: none;
+}
+.blogs a{
+    text-decoration: none;
+}
+.blogs{
+    display: flex;
+    background-color: rgb(255, 144, 110);
+    border-radius: 15px;
+    margin: 10px;
+    padding: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1{
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+.overview{
+    color: white;
+}
